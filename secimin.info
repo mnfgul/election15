@@ -1,0 +1,19 @@
+name = Secimin
+description = Secimin 2015 Theme
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[screen][] = assets/plugins/boostrapv3/css/bootstrap.css
+stylesheets[screen][] = assets/plugins/boostrapv3/css/bootstrap-theme.css
+stylesheets[screen][] = assets/plugins/font-awesome/css/font-awesome.min.css
+stylesheets[screen][] = assets/css/animate.min.css
+stylesheets[screen][] = assets/css/style.css
+stylesheets[screen][] = assets/css/style-new.css
+stylesheets[screen][] = assets/css/responsive.css
+settings[shortcut_module_link] = 1
+
+;Scripts
+scripts[] = assets/plugins/jquery-2.1.3.min.js
+scripts[] = assets/plugins/boostrapv3/js/bootstrap.min.js
+scripts[] = assets/js/secimin.js
